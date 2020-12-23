@@ -8,7 +8,7 @@ function start()
   main=!main;
   if(main)
   {
-    alert('Happy Birthday Ashishit');
+    alert('Click on the middle again to stop to read the things...sorry for the extra work..PS I LOVE YOU');
     abc=setInterval(flip,250);
   }
   else
